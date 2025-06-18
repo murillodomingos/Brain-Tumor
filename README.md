@@ -1,6 +1,6 @@
 ---
 
-#🧠 Projeto Multimodal de Redes Neurais para Detecção e Análise de Tumores Cerebrais (CT + MRI)
+# 🧠 Projeto Multimodal de Redes Neurais para Detecção e Análise de Tumores Cerebrais (CT + MRI)
 
 ---
 
